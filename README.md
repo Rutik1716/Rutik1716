@@ -106,8 +106,7 @@ $ welcome to my GitHub........DONE
 # ☕ Connect
 
 - 💻 GitHub: https://github.com/Rutik1716
-- 🎓 B.E. Electronics & Telecommunications Engineering
-- 🤖 AI Builder | Arduino | Machine Learning Enthusiast
+- Email: rutiklagad134@gmail.com
 
 ---
 
